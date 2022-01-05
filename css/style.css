@@ -1,0 +1,370 @@
+
+header {
+    align-items: center;
+    background-image: url(../images/dakar\ 1.png);
+    height: 545px;
+   
+    
+}
+nav img {
+    margin-left: 5%;
+    width: 15%;
+    height: 15%
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-right: 15%;
+    margin-left: 45%;
+    margin-top: -2%;
+
+}
+header nav ul li {
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #263342;
+
+}
+header nav ul li a {
+    text-decoration: none;
+}
+.header_content {
+    margin-top: 10%;
+    margin-left: 40%;
+    
+}
+.logo2 img  {
+    width: 30%;
+    height: 20%;
+    align-items: center;
+}
+.elipse {
+    background-color:#FCB302;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.elipse img {
+    margin-left: 35%;
+    margin-top: 35%;
+}
+.gris {
+    background-color:  #F3F3F3;
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    
+}
+.gris1 {
+    background-color: white;
+    width: 270px;
+    border-radius: 5px;
+}
+.gris1 p {
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.gris1 pre {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+   
+}
+.im {
+    background-color: #557292;
+    border-radius: 5px;
+    padding-left:30%;
+    padding-top: 5%;    
+    padding-left:30%;
+
+}
+.gris2 {
+    background-color: white;
+    width: 270px;
+    border-radius: 5px;
+}
+.gris3 {
+    background-color: white;
+    width: 270px;
+    border-radius: 5px;
+}
+.gris3 p {
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.gris3 pre {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+   
+}
+.gris4 {
+    background-color: #FCB302;
+    width: 270px;
+    border-radius: 5px;
+}
+.gris4 p {
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 40%;
+
+}
+.partenar {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.partenaire {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenaire img {
+    margin-top: 30%;
+    margin-left: 25%;
+    width: 50%;
+}
+.parligne1 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+.parligne2 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+.partbleu {
+    background-color:#0D4E99;
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+}
+.partenairel2 {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenairel2 img {
+    margin-top: 40%;
+    margin-left: 25%;
+    width: 50%;
+}
+.partenairel2dr {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenairel2dr img {
+    margin-top: 20%;
+    margin-left: 25%;
+    width: 50%;
+}
+.partbleu p {
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 40%;
+    color: white;
+
+}
+.footerbleu {
+    display: flex;
+    background-color: #0D4E99;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display:flex;
+    justify-content: space-between;
+    line-height: 2rem;
+    
+}
+.footerbleu p {
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.sociaux div img {
+    height: 18px;
+    width: 10px;
+    border-radius: 0px;
+    padding-right: 1%;
+
+}
+.sociaux div span {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.contact div img {
+    height: 18px;
+    width: 10px;
+    border-radius: 0px;
+
+
+}
+
+.contact div span {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.jaune {
+    height: 70px;
+    width: 370px;
+    left: 1055px;
+    top: 119px;
+    border-radius: 10px;
+    background-color: #FCB302;
+    padding: 2%;
+}
+.jaune p {
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #0D4E99;
+    margin-left: 25%;
+}
+.copyright {
+    background-color: #415771;
+    position: absolute;
+    height: 64px;
+    width: 98.9%;
+    border-radius: 0px;
+}
+.copyright p {
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #8E8E8E;
+    margin-right: 8%;
+}
+.fleche {
+    position: absolute;
+    border: solid black 1px;
+    width: 30px;
+    height: 30px;
+    border-radius :30px; ;
+    margin-top: -15px;
+    margin-left: 85%;
+    background-color:  #0D4E99;
+}
+.fleche img {
+    width: 25px;
+    margin-left: 3px;
+}
+@media screen and (max-width: 977px) {
+    header nav ul li {
+        background-color: red;
+    }
+  .gris {
+      display: block;
+      padding-left: 20%;
+      padding-right: 20%;
+    
+  }  
+  .gris .gris1 {
+      width: 75%;
+  }
+  .gris .gris2 {
+    width: 75%;
+}
+.gris .gris3 {
+    width: 75%;
+}
+.gris .gris4 {
+    width: 75%;
+}
+.parligne2 {
+    display: block;
+}
+.parligne1 {
+    display: block;
+}
+.partenar {
+    display: flex;
+    justify-content: space-around;
+}
+
+}
+

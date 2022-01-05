@@ -1,0 +1,250 @@
+nav {
+    background-color: white;
+   
+}
+nav img {
+    margin-left: 5%;
+    width: 15%;
+    height: 15%
+    
+}
+.header_content {
+    filter: grayscale(60%);
+    background-image: url(../images/Woman\ typing\ on\ laptop\ -\ 1280x854\ 1.png); 
+    Height : 401px;
+
+}
+.header_content p {
+    font-size: 3rem;
+    margin-left: 45%;
+    margin-top: 15%;
+    position: absolute;
+    color: white;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-right: 15%;
+    margin-left: 45%;
+    margin-top: -2%;
+
+}
+header nav ul li {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #263342;
+    
+    }
+    header nav ul li a {
+        text-decoration: none;
+    }
+.progres {    
+background: #EEF6FF;
+
+
+}
+.progres p {
+height: 30px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+margin-top: 0%;
+margin-left: 20px;
+padding-top: 2%;
+/* identical to box height */
+
+
+color: #0D4E99;
+}
+.partenar {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.partenaire {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenaire img {
+    margin-top: 30%;
+    margin-left: 25%;
+    width: 50%;
+}
+.parligne1 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+.parligne2 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+.partbleu {
+    background-color:#0D4E99;
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+}
+.partenairel2 {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenairel2 img {
+    margin-top: 40%;
+    margin-left: 25%;
+    width: 50%;
+}
+.partenairel2dr {
+    border: solid #D3E7FF 1px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;
+  
+}
+.partenairel2dr img {
+    margin-top: 20%;
+    margin-left: 25%;
+    width: 50%;
+} 
+    
+
+
+
+
+
+
+
+
+
+
+.footerbleu {
+    display: flex;
+    background-color: #0D4E99;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display:flex;
+    justify-content: space-between;
+    line-height: 2rem;
+    
+}
+.footerbleu p {
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.sociaux div img {
+    height: 18px;
+    width: 10px;
+    border-radius: 0px;
+    padding-right: 1%;
+
+}
+.sociaux div span {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.contact div img {
+    height: 18px;
+    width: 10px;
+    border-radius: 0px;
+
+
+}
+
+.contact div span {
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D3E7FF;
+
+}
+.jaune {
+    height: 70px;
+    width: 370px;
+    left: 1055px;
+    top: 119px;
+    border-radius: 10px;
+    background-color: #FCB302;
+    padding: 2%;
+}
+.jaune p {
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #0D4E99;
+    margin-left: 25%;
+}
+.copyright {
+    background-color: #415771;
+    position: absolute;
+    height: 64px;
+    width: 98.9%;
+    border-radius: 0px;
+}
+.copyright p {
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #8E8E8E;
+    margin-right: 8%;
+}
+.fleche {
+    position: absolute;
+    border: solid black 1px;
+    width: 30px;
+    height: 30px;
+    border-radius :30px; ;
+    margin-top: -15px;
+    margin-left: 85%;
+    background-color:  #0D4E99;
+}
+.fleche img {
+    width: 25px;
+    margin-left: 3px;
+}
